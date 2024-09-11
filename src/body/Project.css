@@ -1,0 +1,45 @@
+.project-child{
+    background-color: #00000000;
+    color: rgb(255, 255, 255);
+    height: fit-content;
+    width :80%;
+    border-radius: 25px;
+}
+.project-child:hover{
+    background-color: #00ff99ef;
+    transition: 0.3s ease-in-out;
+    color: rgb(0, 0, 0);
+    
+}
+
+.project-parent{
+    display: flex;
+    justify-content: space-around;
+    margin: 10%  5% 5% 0%;
+}
+.proj-position{
+    position: relative;
+    margin-left: 1%;
+}
+
+.proj-heading{
+    font-weight: 350;
+    margin-left: 1%;
+    display: flex;
+}
+
+.job-d{
+    list-style: square;
+    font-weight: 350;
+    line-height: 30px;
+}
+.inline{
+    display: flex;
+    justify-content: space-between;
+}
+
+.icon{
+    font-size: 40px;
+    margin-right: 2%;
+    margin-top: 1.5%;
+}

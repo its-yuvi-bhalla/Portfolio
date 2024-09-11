@@ -1,0 +1,57 @@
+.content-sect-parent {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    height: auto; 
+}
+
+.container {
+    width: 100%; 
+    max-width: 600px; 
+    padding-top: 5%;
+    padding-bottom: 0.1%;
+    margin-bottom: 0.1%;
+}
+
+.container-text {
+    width: 100%; 
+    max-width: 700px; 
+    padding-bottom: 0.1%;
+    margin-bottom: 0.1%;
+}
+
+.skills-container {
+    width: 100%; 
+    max-width: 800px;
+
+}
+
+.project-root{
+    margin-top:2%;
+}
+
+@media (max-width: 768px) {
+    .content-sect-parent {
+        flex-direction: column;
+    }
+
+    .container, .skills-container {
+        width: 95%; 
+        max-width: none; 
+    }
+}
+
+@media (max-width: 480px) {
+    .container, .skills-container {
+        padding-top: 3%; 
+    }
+}
+
+@media (max-width: 768px) {
+    .container {
+      width: 90%;
+    height: auto; 
+      
+    }
+  }

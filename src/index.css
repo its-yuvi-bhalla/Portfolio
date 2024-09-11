@@ -1,0 +1,21 @@
+:root {
+  font-family: "Inter", sans-serif;
+  color: aliceblue;
+  scroll-behavior: smooth;
+  
+}
+
+body{
+ background: #000000;
+}
+
+::selection {
+  background-color: #8400ff; 
+  color: #ffffff; 
+}
+
+
+::-webkit-selection {
+  background-color: #8400ff; 
+  color: #ffffff; 
+}

@@ -1,0 +1,17 @@
+{
+    "interpersonalSkills": {
+      "adaptableAndQuickLearner": "Being Adaptable & Quick Learner ",
+      "writtenAndOralCommunication": " Written and Oral Communication",
+      "teamworkAndGroupCommunication": "Teamwork; Group Communication",
+      "independentAndResponsible": "Being Independent & Responsible",
+      "attentionDetail":"Attention to Detail"
+    },
+    "programmingLanguages": ["HTML5", "CSS3", "JavaScript", "SQL", "Python"],
+    "frameworks": ["Cypress"],
+    "cloudTestingPlatforms": ["BrowserStack"],
+    "unitTestingAndAssertionFrameworks": ["Mocha", "Chai"],
+    "testingMethodologies": ["UI Testing", "UAT", "RESTful API Testing", "Smoke Testing"],
+    "ides": ["Visual Studio Code", "Visual Studio"],
+    "versionControlSystems": ["GitHub", "Bitbucket"]
+  }
+  

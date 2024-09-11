@@ -1,0 +1,22 @@
+.sect-img {
+    height: 70%;
+    width: 70%;
+    border-radius: 500px ;
+    margin: 20% 20% 50% 0;
+    align-self: center;
+    float: right;
+    box-shadow: 0px 0px 150px rgb(2, 157, 61);
+}
+
+.container-text{
+    padding: 10%;
+    margin-bottom: 2%;
+    line-height: 30px;
+    font-weight: 300;
+}
+.home-port-heading{
+    font-weight: 350;
+}
+.container{
+    margin-bottom: 0.2%;
+}

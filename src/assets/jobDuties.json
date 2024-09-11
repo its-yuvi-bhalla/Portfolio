@@ -1,0 +1,27 @@
+{
+    "srt": {
+      "automatedTesting": "Develop and maintain automation scripts to streamline repetitive testing tasks, ensuring efficiency and accuracy.",
+      "manualTesting": "Perform thorough manual testing to identify bugs, edge cases, and usability issues, ensuring high-quality user experience.",
+      "sftpOperations": "Manage and verify secure file transfers via SFTP, ensuring data integrity and compliance with security protocols.",
+      "versionControl": "Utilize GitHub CLI for version control, managing and tracking code changes and collaborating with the development team.",
+      "bugReporting": "Identify, document, and report software bugs, collaborating with developers to ensure timely resolution.",
+      "testCaseDevelopment": "Design detailed test cases and test scenarios for both functional and non-functional aspects of the application.",
+      "crossTeamCollaboration": "Work closely with developers, product managers, and other stakeholders to ensure testing aligns with project goals and timelines.",
+      "performanceTesting": "Assess application performance under various conditions, reporting bottlenecks or performance degradation.",
+      "regressionTesting": "Perform regression testing to ensure that new code changes do not adversely affect existing functionalities.",
+      "loadTesting": "Conduct load testing to evaluate how the application performs under heavy loads and high traffic conditions."
+    },
+    "QM":{
+      "automationScripts": "Develop and maintain automation scripts to streamline repetitive testing tasks, enhancing efficiency and accuracy.",
+      "manualTesting": "Conduct thorough manual testing to identify bugs, edge cases, and usability issues, ensuring a high-quality user experience.",
+      "integrationTesting": "Perform integration testing with Lightspeed POS to ensure seamless interaction between different components of the system.",
+      "parallelTestExecution": "Utilize Bitbucket CLI to run tests in parallel within CI/CD pipelines, optimizing test execution time and improving overall testing efficiency.",
+      "apiTesting": "Write comprehensive API acceptance and smoke test cases to validate API functionality and performance, ensuring the system's APIs meet required specifications and standards.",
+      "bugReporting": "Identify, document, and report software bugs, collaborating with developers to facilitate timely resolutions and maintain product quality.",
+      "testCaseDevelopment": "Design detailed test cases and test scenarios for both functional and non-functional aspects of the application, ensuring comprehensive test coverage.",
+      "crossTeamCollaboration": "Work closely with developers, product managers, and other stakeholders to align testing efforts with project goals and timelines, fostering effective communication and collaboration.",
+      "performanceTesting": "Assess application performance under various conditions, identifying and addressing bottlenecks or performance issues to ensure optimal system performance.",
+      "dataFileUploads": "Write test cases with data file uploads to create and fetch data using automation scripts, ensuring data integrity and functionality in different scenarios."
+    }
+  }
+  
