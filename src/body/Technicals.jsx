@@ -42,8 +42,8 @@ function TechnicalSkills() {
       <div className="inter-skills-child">
         <h1 className='inter-skills-heading'>Technical Skills</h1>
         <ul className='technical-skills'>
-          <li className='sk'><FontAwesomeIcon className='bug' icon={faCode} /> Programming Languages: HTML5, CSS3, JavaScript (ES6+), SQL, Python</li>
-          <li className='sk'><FontAwesomeIcon className='bug' icon={faCogs} /> Frameworks & Libraries: Cypress</li>
+          <li className='sk'><FontAwesomeIcon className='bug' icon={faCode} /> Programming Languages:  JavaScript (ES6+), SQL, Python,HTML5, CSS3</li>
+          <li className='sk'><FontAwesomeIcon className='bug' icon={faCogs} /> Frameworks & Libraries: Cypress, Playwright</li>
           <li className='sk'><FontAwesomeIcon className='bug' icon={faCloud} /> Cloud Testing Platforms: BrowserStack</li>
           <li className='sk'><FontAwesomeIcon className='bug' icon={faKeyboard} /> Testing Frameworks: Mocha, Chai</li>
           <li className='sk-drop'>
